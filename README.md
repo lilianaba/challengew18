@@ -1,4 +1,4 @@
-# 18 NoSQL: Social Network API
+## Social Network API
 
 ## The task
 [Video](./Assets/Challengew18.webm)
